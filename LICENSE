@@ -7,7 +7,7 @@ You are free to :
 - distributes the sources, binaries and modules ;
 - execute binaries and use modules ;
 - fork and modify the sources ;
-- create your own module from the Virtual-Module repositoy (or from scratch) without restriction on your licence ;
+- create your own module from the Virtual-Module repository (or from scratch) without restriction on your licence ;
 
 
 You can't :
@@ -15,8 +15,8 @@ You can't :
 - have more than 5 players on a private server for a game under the Last Licence without the game's owner(s)
   authorization ;
 - change the licence for forked or modified sources without the original(s) sources' owner(s) (written
-  on the sources files with the @author tags) ' authorization ;
-- remove @author tags on sources files.
+  on the sources files with the @author tags) 's authorization ;
+- remove @author tags on sources files without the author's authorization ;
 
 
 You should :
