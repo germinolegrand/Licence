@@ -1,0 +1,32 @@
+
+LAST PROJECT LICENCE
+
+
+You are free to :
+- view the sources ;
+- build binairies from the sources ;
+- distributes the sources, binaries and modules ;
+- execute binaries and use modules ;
+- fork and modify the sources ;
+- create from scratch your own module without restriction on your licence ;
+
+
+You can't :
+- distribute files or binaries without this file ;
+- change the licence for forked or modified sources without asking the original(s) sources' owner(s) written
+  on the sources files with the @author tags ;
+- remove @author tags on sources files.
+
+
+You should :
+- add your name on your sources files with @author ;
+- ask us to open a repositories for your new module on the Last Project organization (github) ;
+- ask us questions about yours rights and this licence ;)
+
+
+All other rights are reserved but you can contact us to get more rights.
+All API are also under the LAST PROJECT LICENCE.
+
+Becareful, some modules can be under the GNU GPL licence because of their dependancies but as they are
+implementations of non-GNU GPL APIs, you can us the module in other modules/applications without be under a GNU GPL
+compatible licences. But you must respect the GNU GPL licence's conditions in the GNU GPL module.
