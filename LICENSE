@@ -1,4 +1,3 @@
-
 LAST PROJECT LICENCE
 
 
@@ -13,8 +12,8 @@ You are free to :
 
 You can't :
 - distribute files or binaries without this file ;
-- change the licence for forked or modified sources without asking the original(s) sources' owner(s) written
-  on the sources files with the @author tags ;
+- change the licence for forked or modified sources without asking the original(s) sources' owner(s) (written
+  on the sources files with the @author tags) ;
 - remove @author tags on sources files.
 
 
@@ -29,4 +28,5 @@ All API are also under the LAST PROJECT LICENCE.
 
 Becareful, some modules can be under the GNU GPL licence because of their dependancies but as they are
 implementations of non-GNU GPL APIs, you can us the module in other modules/applications without be under a GNU GPL
-compatible licences. But you must respect the GNU GPL licence's conditions in the GNU GPL module.
+compatible licences as long as you use it as "one of the possible API's implementations".
+But you must respect the GNU GPL licence's conditions for the GNU GPL module.
