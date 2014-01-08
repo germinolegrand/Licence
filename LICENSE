@@ -12,8 +12,6 @@ You are free to :
 
 You can't :
 - distribute files or binaries without this file ;
-- have more than 5 players on a private server for a game under the Last Licence without the game's owner(s)
-  authorization ;
 - change the licence for forked or modified sources without the original(s) sources' owner(s) (written
   on the sources files with the @author tags) 's authorization ;
 - remove @author tags on sources files without the author's authorization ;
