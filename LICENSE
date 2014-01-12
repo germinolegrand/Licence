@@ -13,21 +13,21 @@ You are free to :
 
 You can't :
 - distribute files or binaries without this file ;
-- change the licence for forked or modified sources without the original(s) sources' owner(s) (written
-  on the sources files with the @author tags) 's authorization ;
-- remove @author tags on sources files without the author's authorization ;
+- change the licence for forked or modified sources without the original sources' owner(s) (written
+  on the source files with the @author tags) 's authorization ;
+- remove @author tags on source files without the author's authorization ;
 
 
 You should :
-- add your name on your sources files with @author ;
+- add your name on your source files with @author ;
 - ask us to open a repositories for your new module on the Last Project organization (github) ;
-- ask us questions about yours rights and this licence ;)
+- ask us questions about your rights and this licence ;)
 
 
 All other rights are reserved but you can contact us to get more rights.
-All API are also under the LAST PROJECT LICENCE.
+All APIs are also under the LAST PROJECT LICENCE.
 
-Becareful, some modules can be under the GNU GPL licence because of their dependancies but as they are
+Be careful, some modules can be under the GNU GPL licence because of their dependancies but as they are
 implementations of non-GNU GPL APIs, you can us the module in other modules/applications without be under a GNU GPL
 compatible licences as long as you use it as "one of the possible API's implementations".
 But you must respect the GNU GPL licence's conditions for the GNU GPL module.
